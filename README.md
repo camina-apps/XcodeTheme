@@ -1,1 +1,3 @@
 # XcodeTheme
+
+![Preview](/Theme.png)
